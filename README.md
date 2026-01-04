@@ -25,7 +25,7 @@
 > **"Bridging the gap between complex business requirements and robust technical solutions."**
 
 - 🔭 **Roles**: Senior Tech Lead, Solution Architect, Expert Consultant
-- 💼 **Availability**: Open for **Senior SDE/Lead roles** (Full-time) or **Expert Consulting** (Contract)
+- 💼 **Availability**: Open for **Senior SDE/Lead roles** (Full-time) or **Expert Consulting** (Contractual)
 - 🎓 **Education**: B.Tech, The LNM Institute of Information Technology (2016-2020)
 - 📍 **Location**: Delhi, India
 
@@ -39,18 +39,6 @@
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) **Go (Golang)** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) **TypeScript** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) **Cloud Architecture** |
 | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) **Node.js** | ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) **RxJS** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) **Event-Driven** |
 | ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white) **PostgreSQL** | ![Material](https://img.shields.io/badge/Material-0081CB?style=flat&logo=materialdesign&logoColor=white) **Material Design** | ![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) **Pipelines** |
-
----
-
-## 🚀 **Featured Projects** (Production Ready)
-
-| **Project** | **Role** | **Tech Stack** | **Status** |
-|:---|:---|:---|:---|
-| **[API Gateway](https://go-api-gateway-rajat0809.onrender.com/health)** | **Architect** | Go, Gin, Redis, Rate-Limiting | `Live Production` |
-| **[Payment Relay](https://java-payment-relay-rajat0809.onrender.com/api/payments)** | **Lead Dev** | Java, Spring Boot, Webhooks | `Live Production` |
-| **[Fintech Dashboard](https://angular-finance-dashboard.netlify.app)** | **Full Stack** | Angular, RxJS, Real-time | `Live Production` |
-
----
 
 ## 💼 **Services & Engagement**
 
