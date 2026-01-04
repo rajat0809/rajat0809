@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- DYNAMIC HEADER (Cloud Hosted - No File Needed) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Rajat%20Chandak&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Senior%20Tech%20Lead%20and%20Fintech%20Architect&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </div>
 
@@ -55,8 +54,4 @@ I help companies build **bank-grade fintech infrastructure**.
   <h3>
     <a href="mailto:rajatchandak0809@gmail.com">📫 Contact for Consulting or Roles</a>
   </h3>
-  <br>
-  <!-- SIMPLIFIED STATS (Guaranteed to load) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat0809&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=rajat0809&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="48%" alt="Languages" />
 </div>
