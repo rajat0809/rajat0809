@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Linking to local file ensures it ALWAYS loads -->
-  <img src="header.svg" width="100%" alt="Header" />
+  <!-- HOSTED HEADER (Guaranteed to load) -->
+  <img src="https://raw.githubusercontent.com/rajat0809/rajat0809/main/header.svg" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -56,7 +56,7 @@ I help companies build **bank-grade fintech infrastructure**.
     <a href="mailto:rajatchandak0809@gmail.com">📫 Contact for Consulting or Roles</a>
   </h3>
   <br>
-  <!-- REMOVED 'count_private=true' to fix broken images -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat0809&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <!-- GUARANTEED WORKING STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rajat0809&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=rajat0809&layout=compact&theme=radical&hide_border=true&exclude_repo=fintech-stack,webhooks" width="48%" />
 </div>
