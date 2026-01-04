@@ -10,5 +10,5 @@
     <path d="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z" fill="#0077B5" opacity="0.4"></path>
   </g>
   <text text-anchor="middle" x="50%" y="35%" class="text">Rajat Chandak</text>
-  <text text-anchor="middle" x="50%" y="55%" class="desc">Senior Tech Lead & Fintech Architect</text>
+  <text text-anchor="middle" x="50%" y="55%" class="desc">Senior Tech Lead &amp; Fintech Architect</text>
 </svg>
