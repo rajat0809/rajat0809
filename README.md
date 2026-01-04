@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/chandakrajat0809">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/rajat0809">
+    <a href="https://rajat0809.github.io/">
       <img src="https://img.shields.io/badge/Experience-5%2B_Years-blue?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </h3>
